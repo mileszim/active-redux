@@ -1,4 +1,5 @@
-# Active Redux
+# Active Redux #
+[![Build Status](https://travis-ci.org/coverhound/active-redux.svg?branch=master)](https://travis-ci.org/coverhound/active-redux) 
 
 ## [Documentation](https://coverhound.github.io/active-redux/1.0.0)
 
